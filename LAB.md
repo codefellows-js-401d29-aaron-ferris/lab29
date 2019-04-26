@@ -44,7 +44,7 @@ Once you have a good visual and mental model of how the application works, break
 * Fork your completed sandbox
 * Refactor your work using new modules/files for each component
 * Be prepared to discuss/defend file & directory structures chosen
-  * Do this will class based components
+  * Do this with class based components
   * Repeat the process with functional components in different files
     * `<FunctionalStory />` and `<FunctionalDetails />`
   * Your output should repeat, once with each component set
